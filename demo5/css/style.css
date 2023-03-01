@@ -871,13 +871,13 @@ ul.btn li:last-child {
 }
 
 .contac_form .send_btn:hover {
-     background-color: #840310;
+     background-color: #a7e712;
      transition: ease-in all 0.5s;
      color: #fff;
 }
 
 #contac_form *::placeholder {
-     color: #cecece;
+     color: #91ed97;
      opacity: 1;
 }
 
@@ -900,7 +900,7 @@ ul.btn li:last-child {
 /** footer **/
 
 .footer {
-     background-color: #93041c;
+     background-color: #6197de;
      text-align: center;
      padding-top: 90px;
      margin-top: 90px;
@@ -912,7 +912,7 @@ ul.btn li:last-child {
 }
 
 .footer h3 {
-     color: #fff;
+     color: #94c3eb;
      font-weight: 400;
      font-size: 30px;
      line-height: 40px;
@@ -935,14 +935,14 @@ ul.location_icon li {
 
 ul.location_icon li a {
      font-size: 30px;
-     color: #fff;
+     color: #9cfeb1;
      line-height: 30px;
      padding-right: 16px;
      float: left;
 }
 
 ul.location_icon li a:hover {
-     color: #fbca47;
+     color: #f70818;
 }
 
 .follow {
@@ -950,7 +950,7 @@ ul.location_icon li a:hover {
 }
 
 .follow p {
-     color: #fff;
+     color: #7b9aeb;
      font-size: 17px;
      display: inline-block;
 }
@@ -971,7 +971,7 @@ ul.social_icon li:last-child {
 }
 
 ul.social_icon li a {
-     color: #180552;
+     color: #d85f6f;
      width: 40px;
      height: 40px;
      background: #fff;
@@ -983,8 +983,8 @@ ul.social_icon li a {
 }
 
 ul.social_icon li a:hover {
-     background: #fbca47;
-     color: #000;
+     background: #47fb83;
+     color: #ce2525;
 }
 
 ul.link_icon li {
@@ -998,7 +998,7 @@ ul.link_icon li a i {
 }
 
 ul.link_icon li a { 
-     color: #fff;
+     color: #2d05f8;
      float: left;
      text-align: center;
      line-height: 20px;
@@ -1006,7 +1006,7 @@ ul.link_icon li a {
 }
 
 ul.link_icon li.active a {
-     color: #fbca47;
+     color: #06f58a;
 }
 
 ul.link_icon li a:hover {
@@ -1035,7 +1035,7 @@ ul.img_icon li {
      line-height: 22px;
      text-align: center;
      padding-top: 25px;
-     border-top: #301e64 solid 1px;
+     border-top: #120046 solid 1px;
 }
 
 .copyright a {
@@ -1043,7 +1043,7 @@ ul.img_icon li {
 }
 
 .copyright a:hover {
-     color: #fbca47;
+     color: #f6b910;
 }
 
 
