@@ -510,7 +510,7 @@ ul.btn li:last-child {
 }
 
 .read_more:hover {
-     background-color: #fbca47 !important;
+     background-color: #caf50c !important;
 }
 
 
@@ -668,7 +668,7 @@ ul.btn li:last-child {
 /** wallet section **/
 
 .wallet {
-     background: #fff;
+     background: #f4f809;
      padding-top: 70px;
 }
 
@@ -805,7 +805,7 @@ ul.btn li:last-child {
 }
 
 .testimonial_Carousel .carousel-indicators li {
-     background-color: #180552;
+     background-color: #4d0505;
      width: 25px;
      height: 25px;
      border-radius: 30px;
@@ -871,7 +871,7 @@ ul.btn li:last-child {
 }
 
 .contac_form .send_btn:hover {
-     background-color: #17094c;
+     background-color: #840310;
      transition: ease-in all 0.5s;
      color: #fff;
 }
@@ -900,7 +900,7 @@ ul.btn li:last-child {
 /** footer **/
 
 .footer {
-     background-color: #180552;
+     background-color: #93041c;
      text-align: center;
      padding-top: 90px;
      margin-top: 90px;
