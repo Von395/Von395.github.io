@@ -900,7 +900,7 @@ ul.btn li:last-child {
 /** footer **/
 
 .footer {
-     background-color: #6197de;
+     background-color: #136add;
      text-align: center;
      padding-top: 90px;
      margin-top: 90px;
@@ -912,7 +912,7 @@ ul.btn li:last-child {
 }
 
 .footer h3 {
-     color: #94c3eb;
+     color: #0e85ed;
      font-weight: 400;
      font-size: 30px;
      line-height: 40px;
@@ -950,7 +950,7 @@ ul.location_icon li a:hover {
 }
 
 .follow p {
-     color: #7b9aeb;
+     color: #0f4de8;
      font-size: 17px;
      display: inline-block;
 }
